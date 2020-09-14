@@ -78,8 +78,8 @@ namespace WindowsFormsApp1
 
            
 
-            ad = "beyazfilmm@gmail.com";
-            sifre = "489623sunA";
+            ad = "";
+            sifre = "";
 
             IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://www.pinterest.com/login");
